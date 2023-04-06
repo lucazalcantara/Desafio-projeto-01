@@ -1,0 +1,9 @@
+Deve se trabalhar com o git através do git Bash.
+Existem as seguintes fases dentro de um ciclo de vida de um Git:
+-unmodified
+-modified
+-staged
+-commited
+
+Link para download do Git:
+https://git-scm.com/downloads
